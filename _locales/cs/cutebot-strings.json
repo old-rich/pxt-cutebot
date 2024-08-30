@@ -46,7 +46,7 @@
     "cuteBot.tracking|block": "stav snímače čáry je %state",
     "cuteBot.turnleft|block": "zatáčej vlevo plnou rychlostí",
     "cuteBot.turnright|block": "zatáčej vpravo plnou rychlostí",
-    "cuteBot.ultrasonic|block": "vzdálenost od překážky v %unit",
+    "cuteBot.ultrasonic|block": "vzdálenost od překážky %unit",
     "cuteBot|block": "Cutebot",
     "{id:category}CuteBot": "Cutebot"
 }
