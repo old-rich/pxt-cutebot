@@ -47,6 +47,6 @@
     "cuteBot.turnleft|block": "zatáčej vlevo plnou rychlostí",
     "cuteBot.turnright|block": "zatáčej vpravo plnou rychlostí",
     "cuteBot.ultrasonic|block": "vzdálenost od překážky v %unit",
-    "cuteBot|block": "CuteBot",
-    "{id:category}CuteBot": "CuteBot"
+    "cuteBot|block": "Cutebot",
+    "{id:category}CuteBot": "Cutebot"
 }
